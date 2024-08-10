@@ -1,1 +1,1 @@
-# landing-page
+This project is about practicing everything I learned so far in Odin Project. Creating a landing page using Flexbox and other css styles. # landing-page
